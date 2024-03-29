@@ -2744,8 +2744,8 @@
   }
   
   .article:hover .inner {
-    transform: translateY(-5px);
-    border: 3px solid #7F39E7;
+    transform: translateY(-2px);
+    outline: 3px solid #7F39E7;
   }
   
   
